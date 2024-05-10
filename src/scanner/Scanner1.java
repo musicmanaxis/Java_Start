@@ -1,6 +1,7 @@
 package scanner;
 
 import java.util.Scanner;
+//ㅅㄷㄴㅅ
 
 public class Scanner1 {
     public static void main(String[] args) {
@@ -10,6 +11,9 @@ public class Scanner1 {
 
         System.out.println("입력한 문자열:"+input);
 
+        System.out.print("정수를 입력하세요:");
+        int a=scn.nextInt();
+        System.out.println("입력한 정수"+a);
 
     }
 }
