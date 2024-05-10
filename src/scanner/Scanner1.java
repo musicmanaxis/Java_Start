@@ -1,7 +1,7 @@
 package scanner;
 
 import java.util.Scanner;
-//ㅅㄷㄴㅅ
+
 
 public class Scanner1 {
     public static void main(String[] args) {
